@@ -1,17 +1,20 @@
 # CLAUDE.md
 
 ## Project
+
 AI Capstone
 
 ## Tech Stack
+
 - Node.js
 - JavaScript
 - Git
 - GitHub
-- Cursor
+- VS Code
 
 ## Coding Conventions
+
 - Follow Conventional Commits.
-- Prefer async/await.
-- Write clean and modular code.
-- Use descriptive variable names.
+- Use async/await where appropriate.
+- Keep functions small and reusable.
+- Write meaningful commit messages.
