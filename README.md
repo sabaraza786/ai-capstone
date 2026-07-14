@@ -1,17 +1,29 @@
+
 # AI Capstone
 
-This project is part of the AI Engineering Track.
+This repository contains my AI-assisted software engineering capstone project.
+
+## Project Overview
+
+This project demonstrates AI-assisted development workflow using Cursor IDE, Git, and GitHub.
 
 ## Tech Stack
 
 - Node.js
-- Express
-- JavaScript
 - Git
 - GitHub
-- VS Code
-- GitHub Copilot
+- Cursor IDE
 
 ## Goals
 
-Build an AI-powered application while following clean coding practices.
+- Learn AI-assisted software development
+- Follow Conventional Commits
+- Maintain professional Git history
+- Use AI tools for improving documentation and code quality
+
+## Development Guidelines
+
+- Write clean and readable code
+- Follow modern JavaScript practices
+- Keep documentation updated
+- Use meaningful commit messages
