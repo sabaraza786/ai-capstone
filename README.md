@@ -1,11 +1,10 @@
-
 # AI Capstone
 
 This repository contains my AI-assisted software engineering capstone project.
 
 ## Project Overview
 
-This project demonstrates AI-assisted development workflow using Cursor IDE, Git, and GitHub.
+This project demonstrates an AI-assisted development workflow using Cursor IDE, Git, and GitHub.
 
 ## Tech Stack
 
@@ -16,14 +15,15 @@ This project demonstrates AI-assisted development workflow using Cursor IDE, Git
 
 ## Goals
 
-- Learn AI-assisted software development
+- Learn AI-assisted development
 - Follow Conventional Commits
-- Maintain professional Git history
-- Use AI tools for improving documentation and code quality
+- Maintain a professional Git history
+- Use AI tools for improving documentation and productivity
 
 ## Development Guidelines
 
 - Write clean and readable code
-- Follow modern JavaScript practices
+- Use modern JavaScript practices
 - Keep documentation updated
 - Use meaningful commit messages
+- Explain major changes before applying them

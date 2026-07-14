@@ -1,0 +1,12 @@
+Project Stack:
+- Node.js
+- Git
+- GitHub
+- Cursor
+
+Guidelines:
+- Use modern JavaScript (ES6+)
+- Follow Conventional Commits
+- Keep code clean and modular
+- Explain major changes before applying them
+- Update README when project structure changes
