@@ -1,25 +1,17 @@
 # AI Capstone
 
-This repository contains my AI-assisted software engineering capstone project. The goal is to demonstrate a practical, professional workflow for building software with AI support while maintaining strong engineering standards.
-
-## Overview
-
-The project focuses on using AI as a coding assistant for planning, implementation, and documentation, while keeping the final output maintainable and production-oriented.
+This project is part of the AI Engineering Track.
 
 ## Tech Stack
 
 - Node.js
+- Express
 - JavaScript
 - Git
 - GitHub
-- Cursor
+- VS Code
+- GitHub Copilot
 
-## Project Goals
+## Goals
 
-- Build production-quality software
-- Use Conventional Commits consistently
-- Apply AI tools in a disciplined development workflow
-
-## Status
-
-This repository is currently in the documentation and setup phase.
+Build an AI-powered application while following clean coding practices.
